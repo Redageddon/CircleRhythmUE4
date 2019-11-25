@@ -1,9 +1,8 @@
 Enemy,W,0,200,100,0.96
 Enemy,A,0,200,100,1.5
-Rotate,10,2
+Rotate,1,2
 Enemy,S,0,200,100,2.46
 Enemy,D,0,200,100,3
-Rotate,30,3.05
 Background,img1.png,3.1
-Rotate,0,4
+Rotate,0,5
 End,10
