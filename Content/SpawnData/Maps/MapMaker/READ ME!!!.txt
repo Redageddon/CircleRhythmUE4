@@ -1,2 +1,0 @@
-You MUST have dotnet core 2.1+!!!
-if you want to change the core change the 3.0 and 3.0.0 to your .core
